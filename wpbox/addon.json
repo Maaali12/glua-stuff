@@ -1,0 +1,11 @@
+{
+  "title": "Simple Weapon Box",
+  "type": "tool",
+  "tags": [
+    "roleplay",
+    "scenic"
+  ],
+  "ignore": [
+    ".gitattributes"
+  ]
+}
