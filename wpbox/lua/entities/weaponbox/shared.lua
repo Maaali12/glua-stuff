@@ -6,7 +6,6 @@ ENT.Spawnable = false
 ENT.Type = "anim"
 
 function ENT:SetupDataTables()
-
     self:NetworkVar("Bool",0,"RandomSupply")
     self:NetworkVar("Bool",1,"CanUse")
     self:NetworkVar("Int",0,"SelectedIndex")
